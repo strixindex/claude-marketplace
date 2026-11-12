@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "strixindex": {
+      "type": "http",
+      "url": "https://mcp.strixindex.com/mcp"
+    }
+  }
+}
