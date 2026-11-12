@@ -1,0 +1,28 @@
+{
+  "name": "strixindex-marketplace",
+  "owner": {
+    "name": "Strixindex",
+    "email": "support@strixindex.com"
+  },
+  "metadata": {
+    "description": "Claude plugins by Strixindex for scholarly research.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "strixindex-research",
+      "source": "./plugins/strixindex-research",
+      "description": "Scholarly research assistant: find papers, build literature reviews, and cite sources accurately, with strong Indonesian coverage.",
+      "version": "0.1.0",
+      "author": { "name": "Strixindex", "email": "support@strixindex.com" },
+      "category": "research",
+      "keywords": [
+        "research",
+        "citations",
+        "literature-review",
+        "openalex",
+        "indonesia"
+      ]
+    }
+  ]
+}

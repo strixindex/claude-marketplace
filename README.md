@@ -1,7 +1,21 @@
-# Strixindex
+# strixindex-marketplace
 
-Claude plugin for scholarly research using the Strixindex MCP server.
+Claude Code plugin marketplace by Strixindex.
 
-- **Connector:** `strixindex` (https://mcp.strixindex.com/mcp), declared in `.mcp.json`
-- **Skill:** `scholarly-research`, with search strategy and strict citation rules
-- **Commands:** `/find-sources`, `/lit-review`
+## Install
+
+```
+/plugin marketplace add <owner>/<repo>
+/plugin install strixindex-research@strixindex-marketplace
+```
+
+For local testing: `/plugin marketplace add ./strixindex-marketplace`
+
+## Layout
+
+```
+.claude-plugin/marketplace.json
+plugins/strixindex-research/
+```
+
+Support: support@strixindex.com

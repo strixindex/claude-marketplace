@@ -1,0 +1,8 @@
+{
+  "name": "strixindex-research",
+  "version": "0.1.0",
+  "description": "Scholarly research assistant backed by the Strixindex MCP server: find papers, build literature reviews, and cite sources accurately, with strong Indonesian (SINTA/OJS) coverage.",
+  "author": { "name": "Strixindex", "email": "support@strixindex.com" },
+  "homepage": "https://strixindex.com",
+  "keywords": ["research", "citations", "literature-review", "openalex", "indonesia"]
+}
